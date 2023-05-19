@@ -2,3 +2,8 @@ ssh-keygen
 ~/.ssh/id_rsa.pub
 
 git init
+git remote add origin repo:link
+git add -A
+git commit -m 'note'
+git branch -M master
+git push -u origin master
