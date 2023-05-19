@@ -1,0 +1,4 @@
+ssh-keygen
+~/.ssh/id_rsa.pub
+
+git init
